@@ -17,6 +17,6 @@ This is home for my personal projects and OSS contributions which include:
     
 ---
     
-[![Waynes's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayneparrott)](https://github.com/wayneparrott/github-readme-stats)
+[![Waynes's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayneparrott&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/wayneparrott/github-readme-stats)
 
 
