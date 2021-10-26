@@ -10,11 +10,11 @@
 
 This is home for my personal projects and OSS contributions which include:
 * Generative arts using Three.js & TypeScript
-* ROS2 JavaScript (TypeScript) client library project, [rclnodejs](https://github.com/RobotWebTools/rclnodejs) 
-* RCLNodeJS CLI & Tools, [rlcnodejs-cli](https://github.com/RobotWebTools/rclnodejs) 
+* ROS2 JavaScript (TypeScript) client library project *(key contributor)*, [rclnodejs](https://github.com/RobotWebTools/rclnodejs) 
+* RCLNodeJS CLI & Tools *(lead dev)*, [rlcnodejs-cli](https://github.com/RobotWebTools/rclnodejs) 
 * My [@ros2jsguy](https://github.com/ros2jsguy) activities - some cool TypeScript robotics and hardware projects
 * TypeScript, Nodejs C & Rust native addons, experiments
-    
+* TypeScript racing bot driving the TORCS circuits - *cool video*](https://youtu.be/hvJVe8Xtu-c)
 ---
     
 [![Waynes's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayneparrott&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/wayneparrott/github-readme-stats)
